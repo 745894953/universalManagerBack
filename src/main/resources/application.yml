@@ -1,4 +1,8 @@
 spring:
+  #解决swageer2和springboot版本不兼容
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
   profiles:
     active: prod
 
