@@ -1,0 +1,26 @@
+2022-05-24 21:23:04,128 [main] INFO  [com.example.back.UniversalManagerBackApplication] StartupInfoLogger.java:55 - Starting UniversalManagerBackApplication using Java 1.8.0_302 on huchaofandeMacBook-Pro.local with PID 15547 (/Users/huchaofan/Downloads/universalManagerBack/target/classes started by huchaofan in /Users/huchaofan/Downloads/universalManagerBack)
+2022-05-24 21:23:04,133 [main] INFO  [com.example.back.UniversalManagerBackApplication] SpringApplication.java:640 - The following 1 profile is active: "prod"
+2022-05-24 21:23:04,380 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] Logger.java:44 - No MyBatis mapper was found in '[com.example.back]' package. Please check your configuration.
+2022-05-24 21:23:04,519 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:108 - Tomcat initialized with port(s): 8888 (http)
+2022-05-24 21:23:04,522 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8888"]
+2022-05-24 21:23:04,522 [main] INFO  [org.apache.catalina.core.StandardService] DirectJDKLog.java:173 - Starting service [Tomcat]
+2022-05-24 21:23:04,522 [main] INFO  [org.apache.catalina.core.StandardEngine] DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-05-24 21:23:04,558 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2022-05-24 21:23:04,558 [main] INFO  [o.s.b.w.s.c.ServletWebServerApplicationContext] ServletWebServerApplicationContext.java:292 - Root WebApplicationContext: initialization completed in 409 ms
+2022-05-24 21:23:04,764 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8888"]
+2022-05-24 21:23:04,772 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:220 - Tomcat started on port(s): 8888 (http) with context path ''
+2022-05-24 21:23:04,777 [main] INFO  [com.example.back.UniversalManagerBackApplication] StartupInfoLogger.java:61 - Started UniversalManagerBackApplication in 0.876 seconds (JVM running for 1.252)
+2022-05-24 23:05:20,480 [SpringApplicationShutdownHook] INFO  [com.alibaba.druid.pool.DruidDataSource] DruidDataSource.java:2071 - {dataSource-0} closing ...
+2022-05-24 23:07:31,617 [main] INFO  [com.example.back.UniversalManagerBackApplication] StartupInfoLogger.java:55 - Starting UniversalManagerBackApplication using Java 1.8.0_302 on huchaofandeMacBook-Pro.local with PID 16643 (/Users/huchaofan/Downloads/universalManagerBack/target/classes started by huchaofan in /Users/huchaofan/Downloads/universalManagerBack)
+2022-05-24 23:07:31,619 [main] INFO  [com.example.back.UniversalManagerBackApplication] SpringApplication.java:640 - The following 1 profile is active: "prod"
+2022-05-24 23:07:31,956 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] Logger.java:44 - No MyBatis mapper was found in '[com.example.back]' package. Please check your configuration.
+2022-05-24 23:07:32,094 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:108 - Tomcat initialized with port(s): 8888 (http)
+2022-05-24 23:07:32,098 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8888"]
+2022-05-24 23:07:32,098 [main] INFO  [org.apache.catalina.core.StandardService] DirectJDKLog.java:173 - Starting service [Tomcat]
+2022-05-24 23:07:32,098 [main] INFO  [org.apache.catalina.core.StandardEngine] DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-05-24 23:07:32,132 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2022-05-24 23:07:32,132 [main] INFO  [o.s.b.w.s.c.ServletWebServerApplicationContext] ServletWebServerApplicationContext.java:292 - Root WebApplicationContext: initialization completed in 481 ms
+2022-05-24 23:07:32,356 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8888"]
+2022-05-24 23:07:32,364 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:220 - Tomcat started on port(s): 8888 (http) with context path ''
+2022-05-24 23:07:32,369 [main] INFO  [com.example.back.UniversalManagerBackApplication] StartupInfoLogger.java:61 - Started UniversalManagerBackApplication in 1.028 seconds (JVM running for 1.34)
+2022-05-24 23:07:39,597 [SpringApplicationShutdownHook] INFO  [com.alibaba.druid.pool.DruidDataSource] DruidDataSource.java:2071 - {dataSource-0} closing ...
